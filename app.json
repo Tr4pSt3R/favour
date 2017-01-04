@@ -21,7 +21,7 @@
       "generator":"secret"
     },
     "SMTP_ADDRESS":{
-      "required":true
+      "required":false
     },
     "SMTP_DOMAIN":{
       "required":true
